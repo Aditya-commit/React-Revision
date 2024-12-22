@@ -3,7 +3,8 @@
 // import Main from './components/imperativeHandle/main';
 // import Main from './components/customHooks/main';
 // import Main from './components/useCallbackTest/main';
-import Main from './components/state_reset/main';
+// import Main from './components/state_reset/main';
+import Main from './components/transition/main';
 
 
 
