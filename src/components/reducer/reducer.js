@@ -1,0 +1,1 @@
+export const reducer = (prevState , { type , value }) => ({...prevState , [type] : value});
